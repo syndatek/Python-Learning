@@ -10,4 +10,6 @@ fun main(){
     println("my phone number is $phone and my weight is $weight")
     println("my height is $height")
 
+    val BMI=weight/height
+    println("my bmi is $BMI") 
 }
